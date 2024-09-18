@@ -27,6 +27,7 @@
 - **Фоновый цвет**: ![#F5F5DC](https://via.placeholder.com/15/F5F5DC/000000?text=+) `#F5F5DC` (Бежевый)
 - **Контрастный цвет**: ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` (Белый)
 - **Акцентный цвет**: ![#D2691E](https://via.placeholder.com/15/D2691E/000000?text=+) `#D2691E` (Медный)
+- **Дополнительный акцентный цвет**: ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) `#FFD700` (Золотистый)
 
 ### Цвета для текста:
 
